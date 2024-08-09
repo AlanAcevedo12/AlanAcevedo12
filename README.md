@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✔️HTML<br>✔️CSS<br>✔️JavaScript<br>✔️NodeJS<br>✔️React<br>✔️Redux<br>✔️SQL</p>✔️Java<br>
+<p align="left">✔️HTML<br>✔️CSS<br>✔️JavaScript<br>✔️NodeJS<br>✔️React<br>✔️Redux<br>✔️SQL✔️Java<br></p>
 
 ###
 
