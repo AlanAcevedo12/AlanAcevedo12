@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✔️HTML<br>✔️CSS<br>✔️JavaScript<br>✔️NodeJS<br>✔️React<br>✔️Redux<br>✔️SQL</p>
+<p align="left">✔️HTML<br>✔️CSS<br>✔️JavaScript<br>✔️NodeJS<br>✔️React<br>✔️Redux<br>✔️SQL</p>✔️Java<br>
 
 ###
 
@@ -30,6 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="52" alt="java logo" />
+
 </div>
 
 ###
@@ -39,6 +41,14 @@
 ###
 
 <h3 align="left">🌞 Weather App<br>🐶 Dog Breeds App<br>👕 Pro-Ropa Store</h3>
+
+###
+
+<h2 align="left">Proyectos personales:</h2>
+
+###
+
+<h3 align="left"> Multimedia Sync <br> Insta Reader <br>Music Info <br>App para toma de decisiones (Sin nombre aún)</h3>
 
 ###
 
